@@ -10,5 +10,3 @@ os.cpus().forEach((cpu) => {
   console.log("Nombre:" + cpu.model);
   console.log("Nucleos:" + cpu.cores);
 });
-
-//texto de ejemplo
